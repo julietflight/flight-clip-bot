@@ -1,5 +1,0 @@
-streamlit
-requests
-moviepy
-whisper
-pillow
